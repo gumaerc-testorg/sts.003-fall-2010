@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information related to the stuff of matter in
   the ancient world.  '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-003-the-rise-of-modern-science-fall-2010/33e14e296d7a18ee467a38dc3518e621_MITSTS_003F10_lec02.pdf
+file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/33e14e296d7a18ee467a38dc3518e621_MITSTS_003F10_lec02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITSTS_003F10_lec02.pdf
 uid: 33e14e29-6d7a-18ee-467a-38dc3518e621

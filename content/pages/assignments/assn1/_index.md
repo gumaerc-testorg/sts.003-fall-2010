@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 title: First Paper Assignment
 uid: a4314ea4-b773-0b5e-d07f-f4cacf0b1816
@@ -10,7 +14,7 @@ uid: a4314ea4-b773-0b5e-d07f-f4cacf0b1816
 
 **Grade**: Your grade on Paper 1 will contribute 10% of your final course grade.
 
-Conventional wisdom has long held that the terms "alchemy" and "chemistry" refer to quite different activities. "Alchemy" has usually been taken to mean "the archaic, irrational, and even consciously fraudulent," while "chemistry" stands in for "the modern, scientific, and rational."[1](#Newman) In particular, practicing alchemists from the seventeenth century, such as George Starkey, have been dismissed as self-deluded cranks or frauds, while Starkey's contemporary, Robert Boyle, has been hailed as "the father of chemistry."[2](#Newman__William) Using two of the primary sources assigned in class—excerpts from George Starkey's _Alchemical Laboratory Notebooks and Correspondence_, and from Robert Boyle's _New Experiments Physico-Mechanicall_ (especially his accounts of his initial experiments, on pp. 20-37)—evaluate the conventional wisdom.
+Conventional wisdom has long held that the terms "alchemy" and "chemistry" refer to quite different activities. "Alchemy" has usually been taken to mean "the archaic, irrational, and even consciously fraudulent," while "chemistry" stands in for "the modern, scientific, and rational."[{{< sup "1" >}}](#Newman) In particular, practicing alchemists from the seventeenth century, such as George Starkey, have been dismissed as self-deluded cranks or frauds, while Starkey's contemporary, Robert Boyle, has been hailed as "the father of chemistry."[{{< sup "2" >}}](#Newman__William) Using two of the primary sources assigned in class—excerpts from George Starkey's _Alchemical Laboratory Notebooks and Correspondence_, and from Robert Boyle's _New Experiments Physico-Mechanicall_ (especially his accounts of his initial experiments, on pp. 20-37)—evaluate the conventional wisdom.
 
 In what way do these texts resemble each other? How do they differ? Can you detect continuities from either one in today's scientific practice? Put another way, what features of these texts seem similar to your own laboratory notebooks or reports for chemistry courses at MIT, such as 3.091, 5.111, or 5.112? What features are different?
 
@@ -39,6 +43,6 @@ Sample Student Work
 
 "Alchemy and Chemistry; A Rose by Any Other Name" by MIT student ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn1_b))
 
-{{< anchor "Newman" >}}1{{< /anchor >}} Newman, William, and Lawrence Principe. "Alchemy vs. Chemistry: The Etymological origins of a Historiographical Mistake." _Early Science and Medicine_ 3 (1998): 32-65, on 34.
+{{< anchor "Newman" >}}{{< sup "1" >}}{{< /anchor >}} Newman, William, and Lawrence Principe. "Alchemy vs. Chemistry: The Etymological origins of a Historiographical Mistake." _Early Science and Medicine_ 3 (1998): 32-65, on 34.
 
-{{< anchor "Newman__William" >}}2{{< /anchor >}} Newman, William. _The Gehennical Fire: The Lives of George Starkey, An American Alchemist in the Scientific Revolution_. 2nd ed. Chicago: University of Chicago Press, 2002 \[1994\]. ISBN: 9780226577142. See also Roger Pilkington. _Robert Boyle: Father of Chemistry_. London: J. Murray, 1959.
+{{< anchor "Newman__William" >}}{{< sup "2" >}}{{< /anchor >}} Newman, William. _The Gehennical Fire: The Lives of George Starkey, An American Alchemist in the Scientific Revolution_. 2nd ed. Chicago: University of Chicago Press, 2002 \[1994\]. ISBN: 9780226577142. See also Roger Pilkington. _Robert Boyle: Father of Chemistry_. London: J. Murray, 1959.

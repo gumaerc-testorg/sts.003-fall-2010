@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to linnaeus.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-003-the-rise-of-modern-science-fall-2010/92f08b24491aa147c02b7ee693adeb19_MITSTS_003F10_read07_linna.pdf
+file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/92f08b24491aa147c02b7ee693adeb19_MITSTS_003F10_read07_linna.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: MITSTS_003F10_read07_linna.pdf
 uid: 92f08b24-491a-a147-c02b-7ee693adeb19

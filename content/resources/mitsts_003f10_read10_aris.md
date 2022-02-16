@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to aristotle.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-003-the-rise-of-modern-science-fall-2010/27b4beb475eba23a52e6a62a48cab178_MITSTS_003F10_read10_aris.pdf
+file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/27b4beb475eba23a52e6a62a48cab178_MITSTS_003F10_read10_aris.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: MITSTS_003F10_read10_aris.pdf
 uid: 27b4beb4-75eb-a23a-52e6-a62a48cab178

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 title: 'Paper 3: Revise-Rewrite Assignment of Paper 2'
 uid: 9f226564-4deb-87d3-6c6b-d1931ca0c197

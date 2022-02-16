@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 343a158a-b055-584c-2adb-7ead8838d802
 title: Some Reading Strategies for History Courses
 uid: 1f7964c2-5f7b-664c-22d5-09ba5fc9e333
@@ -16,7 +20,7 @@ uid: 1f7964c2-5f7b-664c-22d5-09ba5fc9e333
 
 {{< tableclose >}}
 
-A List of Informal Suggestions\*
+A List of Informal Suggestions{{< sup "\\*" >}}
 
 1.  History isn't just about learning facts and dates. It's also about understanding how and why things happened. So don't get bogged down in taking in all the facts and dates, at the expense of the big picture. The key is to ask yourself, "Why would this event be important, and how does it relate to other events?" These questions give you the framework to hang your facts and dates on. For instance, it's not so important to remember all the dates that show up in the narratives, but rather to ask, "Which dates refer to especially significant things, and what do they tell us about the order in which things happened?" This is not to say that you can forget all facts and dates, but it is to suggest remembering them within a meaningful context.
   
@@ -28,7 +32,7 @@ A List of Informal Suggestions\*
   
 9.  History courses use different kinds of materials that demand different kinds of reading. For instance, a narrative of someone's life will probably be quicker and easier to read than a historian's analysis of an event and its reasons. A collection of primary documents will make you ask different questions than will a textbook account.
 
-\*Courtesy of Professor Cathryn Carson, University of California at Berkeley. Used with permission.
+{{< sup "\\*" >}}Courtesy of Professor Cathryn Carson, University of California at Berkeley. Used with permission.
 
 {{< tableopen >}}
 {{< tropen >}}

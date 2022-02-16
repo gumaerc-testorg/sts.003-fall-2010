@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 title: Second Paper Assignment
 uid: 60f220b3-5ea0-c0c7-bb5f-82cd645181ec

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-003-the-rise-of-modern-science-fall-2010/24cdc3d2eb6004110420820e073a8ebe_sts-003f10-th.jpg
+file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/24cdc3d2eb6004110420820e073a8ebe_sts-003f10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This 1968 photo by Apollo 8 crewmember Bill Anders shows the Earth seemingly
@@ -12,6 +12,8 @@ image_metadata:
     domain photo from NASA.)
   credit: ''
   image-alt: Photo of the earth appearing to rise over the surface of the moon.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: sts-003f10-th.jpg
 uid: 24cdc3d2-eb60-0411-0420-820e073a8ebe

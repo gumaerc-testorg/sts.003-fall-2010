@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 title: Final Paper, Option B
 uid: 3eb09fcc-c7b5-599f-f547-ad82e117e48f

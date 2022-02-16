@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 title: Final Paper, Option A
 uid: f39eb890-232d-888c-8c6c-61ae212bcd5b
@@ -21,7 +25,7 @@ _Involving Arthur Eddington's eclipse expedition to test Albert Einstein's gener
 
 Surely one of the most important events in the history of the universe—at least since humans began walking upright—is the development of Albert Einstein's general theory of relativity. Einstei's theory, and Einstein himself, became worldwide celebrities in November 1919: that was the month in which Arthur Eddington announced that his astronomical expedition had measured the bending of starlight as it passed near the sun during a total eclipse, and found quantitative agreement with Einstein's prediction. When Einstein traveled to the United States soon after that, he was greeted with ticker-tape parades. Eddington's eclipse-expedition results—announced to great fanfare just one year after the end of World War I—seemed to settle the scientific score decisively: Einstein's theory of gravity was in, Newton's was out.
 
-What, then, are we to make of comments such as this:"Eddington evaluated his \[observational\] results according to how they conformed to his preferred theoretical predictions. On one hand, inordinate value was attached to photographs that approximated Einstein's 1.7 seconds of arc deflection; on the other, dubious ad hoc reasons were invented for jettisoning any that disagreed." In short, this argument goes, Eddington "manipulated" and "massaged" his data to produce the answer he was looking for.[1](#Waller__John) Take away those heavy-handed interventions, it has been suggested, and one of the earliest and most important confirmations of Einstein's theory falls apart. No data massage, no ticker-tape parade.
+What, then, are we to make of comments such as this:"Eddington evaluated his \[observational\] results according to how they conformed to his preferred theoretical predictions. On one hand, inordinate value was attached to photographs that approximated Einstein's 1.7 seconds of arc deflection; on the other, dubious ad hoc reasons were invented for jettisoning any that disagreed." In short, this argument goes, Eddington "manipulated" and "massaged" his data to produce the answer he was looking for.[{{< sup "1" >}}](#Waller__John) Take away those heavy-handed interventions, it has been suggested, and one of the earliest and most important confirmations of Einstein's theory falls apart. No data massage, no ticker-tape parade.
 
 Scientists, historians, philosophers, and sociologists continue to debate Eddington's activities surrounding the famous eclipse expedition—from his motivations to undertake the experiment, to his presentation of the scientific stakes before, during, and after the experiment, to his handling of specific instruments and data during his analysis. Based on your reading of several primary and secondary sources, articulate and defend your own argument about Eddington and the eclipse expedition. Was this a case of scientific fraud? Savvy public relations? Wishful thinking? Science as usual?
 
@@ -62,4 +66,4 @@ Sample Student Work
 
 "A Study Eclipsed by Confirmation Bias" by MIT student ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4_a1)) (Courtesy of MIT student. Used with permission.)
 
-{{< anchor "Waller__John" >}}1{{< /anchor >}} Waller, John. _Einstein's Luck: The Truth Behind Some of the Greatest Scientific Discoveries._ New York: Oxford University Press, 2002, 58. ISBN: 9780192805676.
+{{< anchor "Waller__John" >}}{{< sup "1" >}}{{< /anchor >}} Waller, John. _Einstein's Luck: The Truth Behind Some of the Greatest Scientific Discoveries._ New York: Oxford University Press, 2002, 58. ISBN: 9780192805676.

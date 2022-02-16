@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'This resource contains information related to poking. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-003-the-rise-of-modern-science-fall-2010/f701c4d1977702535e81720f6199f4ae_MITSTS_003F10_assn4_b2.pdf
+file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/f701c4d1977702535e81720f6199f4ae_MITSTS_003F10_assn4_b2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Final Paper, Option B
+parent_type: CourseSection
 resourcetype: Document
 title: MITSTS_003F10_assn4_b2.pdf
 uid: f701c4d1-9777-0253-5e81-720f6199f4ae

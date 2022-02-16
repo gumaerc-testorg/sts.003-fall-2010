@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: First Paper Assignment
+parent_type: CourseSection
 parent_uid: a4314ea4-b773-0b5e-d07f-f4cacf0b1816
 title: Guidelines for Writing Papers
 uid: 1fe6998f-d627-660d-6ddd-0706e34edf5b
