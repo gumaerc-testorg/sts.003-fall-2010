@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 343a158a-b055-584c-2adb-7ead8838d802
 resourcetype: Document
 title: MITSTS_003F10_read02_aris.pdf
 uid: 606d292f-b3da-851c-14dd-404e6b04b1e3

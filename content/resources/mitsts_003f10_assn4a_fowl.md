@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Paper, Option A
 parent_type: CourseSection
+parent_uid: f39eb890-232d-888c-8c6c-61ae212bcd5b
 resourcetype: Document
 title: MITSTS_003F10_assn4a_fowl.pdf
 uid: 7b56a745-c1a6-bbf7-4b96-e6d76eec291f

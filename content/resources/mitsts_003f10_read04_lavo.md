@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 343a158a-b055-584c-2adb-7ead8838d802
 resourcetype: Document
 title: MITSTS_003F10_read04_lavo.pdf
 uid: f35d23ec-37d9-782d-68cd-ec1175a73435

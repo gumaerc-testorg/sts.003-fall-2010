@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Second Paper Assignment
 parent_type: CourseSection
+parent_uid: 60f220b3-5ea0-c0c7-bb5f-82cd645181ec
 resourcetype: Document
 title: MITSTS_003F10_assn2_jw.pdf
 uid: 3a28835e-7f6e-764d-e564-73d0e4163f4e

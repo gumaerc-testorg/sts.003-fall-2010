@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: First Paper Assignment
 parent_type: CourseSection
+parent_uid: a4314ea4-b773-0b5e-d07f-f4cacf0b1816
 resourcetype: Document
 title: MITSTS_003F10_footnotes.pdf
 uid: 66dcff34-76e2-6dcc-53a8-bc82dc1d0ebb

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 343a158a-b055-584c-2adb-7ead8838d802
 resourcetype: Document
 title: MITSTS_003F10_read08_darw.pdf
 uid: 6c5eac99-5d84-9baf-2a61-21bf730f9471

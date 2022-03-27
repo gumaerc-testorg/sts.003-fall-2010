@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 343a158a-b055-584c-2adb-7ead8838d802
 resourcetype: Document
 title: MITSTS_003F10_read15_marey.pdf
 uid: 187f4aac-e5c5-8f3d-1b34-0b32c1e34213
