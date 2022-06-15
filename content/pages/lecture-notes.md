@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the slides
+  from each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_003f10_lec01))
+({{% resource_link 20208e11-cdb5-37cf-3dff-65049c0db14c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ Kaiser
 The stuff of matter in the ancient world
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mitsts_003f10_lec02))
+({{% resource_link 33e14e29-6d7a-18ee-467a-38dc3518e621 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Kaiser
 Alchemy and experiment in the Renaissance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.4MB]({{< baseurl >}}/resources/mitsts_003f10_lec03))
+({{% resource_link 71b9bae8-3d43-c79e-e590-75c399520c85 "PDF - 3.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Kaiser
 Textbooks and chemical order, from Lavoisier to Mendeleev
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.1MB]({{< baseurl >}}/resources/mitsts_003f10_lec04))
+({{% resource_link 71020b24-4ccd-51c9-6050-d3c74a5507dd "PDF - 3.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Kaiser
 Quantum alchemy?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/mitsts_003f10_lec05))
+({{% resource_link cedf0bde-dd90-9ca9-94eb-41d2b446eb9f "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ The nature of nature in ancient and medieval worlds
 {{< tdopen >}}
 
 
-([PDF - 12.4MB]({{< baseurl >}}/resources/mitsts_003f10_lec06))
+({{% resource_link 429fc9f5-0a42-f445-9923-83a8b3dcd97b "PDF - 12.4MB" %}})
 
 
 {{< tdclose >}}
@@ -145,7 +147,7 @@ Exploring, collecting, classifying
 {{< tdopen >}}
 
 
-([PDF - 6.3MB]({{< baseurl >}}/resources/mitsts_003f10_lec07))
+({{% resource_link 31e65c8d-bc57-e2fa-ecf6-af4e1a60a27f "PDF - 6.3MB" %}})
 
 
 {{< tdclose >}}
@@ -164,7 +166,7 @@ Evolution and the origin of species
 {{< tdopen >}}
 
 
-([PDF - 8.2MB]({{< baseurl >}}/resources/mitsts_003f10_lec08))
+({{% resource_link 2ca5d361-bd37-9427-83f2-4a49241c76ac "PDF - 8.2MB" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +185,7 @@ Ecology and environment
 {{< tdopen >}}
 
 
-([PDF - 3.9MB]({{< baseurl >}}/resources/mitsts_003f10_lec09))
+({{% resource_link 7fc088ac-9219-2952-3f72-dcf8b669492f "PDF - 3.9MB" %}})
 
 
 {{< tdclose >}}
@@ -206,7 +208,7 @@ Kaiser
 From "natural motions" to "laws of motion"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB]({{< baseurl >}}/resources/mitsts_003f10_lec10))
+({{% resource_link 45ed33c7-cd04-ac5a-b166-dc6d3324707f "PDF - 1.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +223,7 @@ Kaiser
 Beer brewing, steam engines, and the fate of the cosmos
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9MB]({{< baseurl >}}/resources/mitsts_003f10_lec11))
+({{% resource_link d8adf0c0-c494-b9ac-15a9-85852f43370c "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +238,7 @@ Kaiser
 Space, time, and spacetime
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5MB]({{< baseurl >}}/resources/mitsts_003f10_lec12))
+({{% resource_link 06d7b3d3-703c-cf5e-bfdb-674f44e8d66d "PDF - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Blood, guts and images
 {{< tdopen >}}
 
 
-([PDF - 14.9MB]({{< baseurl >}}/resources/mitsts_003f10_lec13))
+({{% resource_link bc75b43b-a105-e1e8-532d-bb450374cd40 "PDF - 14.9MB" %}})
 
 
 {{< tdclose >}}
@@ -278,7 +280,7 @@ Cell theory
 {{< tdopen >}}
 
 
-([PDF - 5.2MB]({{< baseurl >}}/resources/mitsts_003f10_lec14))
+({{% resource_link 8087148e-3cc8-a839-ba04-11d1d138d417 "PDF - 5.2MB" %}})
 
 
 {{< tdclose >}}
@@ -297,7 +299,7 @@ Physiology and experiment
 {{< tdopen >}}
 
 
-([PDF - 6.0MB]({{< baseurl >}}/resources/mitsts_003f10_lec15))
+({{% resource_link 8e9d00df-89aa-498e-6f76-7131b241a3c1 "PDF - 6.0MB" %}})
 
 
 {{< tdclose >}}
@@ -316,7 +318,7 @@ Models of inheritance and genetics
 {{< tdopen >}}
 
 
-([PDF - 4.0MB]({{< baseurl >}}/resources/mitsts_003f10_lec16))
+({{% resource_link 3b5ef61e-b844-97f5-1e7b-20c8b358e296 "PDF - 4.0MB" %}})
 
 
 {{< tdclose >}}
@@ -339,7 +341,7 @@ Kaiser
 To save the phenomena
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mitsts_003f10_lec17))
+({{% resource_link 43a13512-dedc-f662-53d1-d6f240bf9631 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,7 +356,7 @@ Kaiser
 Copernicus: Round and round we go
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9MB]({{< baseurl >}}/resources/mitsts_003f10_lec18))
+({{% resource_link 2939b312-8779-e2d7-635d-d28463e9c87b "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +371,7 @@ Kaiser
 The Newtonian cosmos
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3MB]({{< baseurl >}}/resources/mitsts_003f10_lec19))
+({{% resource_link 5eef63d1-c491-ba6e-f710-5393eb4434b0 "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -384,7 +386,7 @@ Kaiser
 Einstein, gravity, and politics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1MB]({{< baseurl >}}/resources/mitsts_003f10_lec20))
+({{% resource_link 0f211380-8d86-bd58-ccaf-582d1671d70a "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +409,7 @@ Mind-body
 {{< tdopen >}}
 
 
-([PDF - 9.0MB]({{< baseurl >}}/resources/mitsts_003f10_lec21))
+({{% resource_link c1d02c0b-6bd6-1424-39d2-9df5e797d430 "PDF - 9.0MB" %}})
 
 
 {{< tdclose >}}
@@ -426,7 +428,7 @@ Madness
 {{< tdopen >}}
 
 
-([PDF - 8.4MB]({{< baseurl >}}/resources/mitsts_003f10_lec22))
+({{% resource_link 4640efc8-18fa-6f6d-ac2e-6a156e49a6d3 "PDF - 8.4MB" %}})
 
 
 {{< tdclose >}}
@@ -445,7 +447,7 @@ Brains in the lab: Experimental psychology
 {{< tdopen >}}
 
 
-([PDF - 3.9MB]({{< baseurl >}}/resources/mitsts_003f10_lec23))
+({{% resource_link 9970dfe6-3642-e8f3-7793-65d916f62be7 "PDF - 3.9MB" %}})
 
 
 {{< tdclose >}}
@@ -464,7 +466,7 @@ Man-machine
 {{< tdopen >}}
 
 
-([PDF - 7.4MB]({{< baseurl >}}/resources/mitsts_003f10_lec24))
+({{% resource_link ca7c9a08-76b1-57eb-30b7-b9c314485a9f "PDF - 7.4MB" %}})
 
 
 {{< tdclose >}}
@@ -481,7 +483,7 @@ Man-machine
 Conclusion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitsts_003f10_lec26))
+({{% resource_link 0a3092a7-f0a0-a645-bc8b-1d9702596a00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

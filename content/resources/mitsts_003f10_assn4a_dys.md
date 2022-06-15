@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to expedition.
-file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/799c06c530ca21f42b6738fd4b6bd3c5_MITSTS_003F10_assn4a_dys.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/799c06c530ca21f42b6738fd4b6bd3c5_MITSTS_003F10_assn4a_dys.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MITSTS_003F10_assn4a_dys.pdf
 uid: 799c06c5-30ca-21f4-2b67-38fd4b6bd3c5
 ---
+This resource contains information related to expedition.
+

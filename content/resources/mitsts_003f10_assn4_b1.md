@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to human body.
-file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/f38dea614e762cbd033a54f5ef271ca9_MITSTS_003F10_assn4_b1.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f38dea614e762cbd033a54f5ef271ca9_MITSTS_003F10_assn4_b1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MITSTS_003F10_assn4_b1.pdf
 uid: f38dea61-4e76-2cbd-033a-54f5ef271ca9
 ---
+This resource contains information related to human body.
+

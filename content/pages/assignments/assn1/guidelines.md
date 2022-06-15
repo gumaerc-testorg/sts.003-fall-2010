@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +14,7 @@ uid: 1fe6998f-d627-660d-6ddd-0706e34edf5b
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1)
+« Back to: {{% resource_link a4314ea4-b773-0b5e-d07f-f4cacf0b1816 "First Paper Assignment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +49,7 @@ A useful discussion of appropriate uses for Wikipedia and related web-based site
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1)
+« Back to: {{% resource_link a4314ea4-b773-0b5e-d07f-f4cacf0b1816 "First Paper Assignment" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

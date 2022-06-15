@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ In the Flesh
 
 _Involving Gunther von Hagens's controversial exhibition, Body Worlds_
 
-![Old human anatomy engraving, depicting a standing man with muscles exposed, holding his removed skin in one hand as if he was flayed.](/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/assignments/assn4b/23.jpg)
+{{< resource "d4507bb6-5947-f0da-a510-571c170f4e5a" >}}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (Public domain image)
@@ -40,7 +41,7 @@ In the written portion of this assignment, you should use standard footnote conv
 
 Hagens, G. von. "Plastinated Specimens and Plastination." and "On Gruesome Corpses, Gestalt Plastinates and Mandatory Interment." In _Body Worlds: The Anatomical Exhibition of Real Human Bodies_. Edited by Gunther von Hagens, and Angelina Whalley, translated by Francis Kelly. Heidelberg: Institut für Plastination, 2004, pp. 20-37 and 260-282.
 
-———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://studylib.net/doc/13644599/no-skeletons-in-the-closet-%E2%80%94-facts--background-and-conclu...)).
+———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. ([PDF](http://studylib.net/doc/13644599/no-skeletons-in-the-closet-%E2%80%94-facts--background-and-conclu...)).
 
 Harvey, W. "Proeme and Introductory Chapters of _De Motu Cordis_" \[1628\]. In _The Anatomical Exercises in English Translation_. Dover, 1995, pp. 1-23. ISBN: 9780486688275.
 
@@ -75,8 +76,8 @@ Sample Student Work
 
 (Courtesy of the students and used with permission.)
 
-"Controversy and the Human Body: Science and Spectacle in Body Worlds" by MIT student ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4_b1))
+"Controversy and the Human Body: Science and Spectacle in Body Worlds" by MIT student ({{% resource_link f38dea61-4e76-2cbd-033a-54f5ef271ca9 "PDF" %}})
 
-"Poking, Prodding, and Slicing: Anatomy as We Know It" by MIT student ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4_b2))
+"Poking, Prodding, and Slicing: Anatomy as We Know It" by MIT student ({{% resource_link f701c4d1-9777-0253-5e81-720f6199f4ae "PDF" %}})
 
-"Conflict: Conceptions of the Body" by MIT student ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4_b3))
+"Conflict: Conceptions of the Body" by MIT student ({{% resource_link ad594e9f-06a8-e1f5-32b9-3fd5f715552a "PDF" %}})

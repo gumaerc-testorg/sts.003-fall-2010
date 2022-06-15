@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to brains in the lab: experimental
   psychology.'
-file: /media/courses/sts-003-the-rise-of-modern-science-fall-2010/9970dfe63642e8f3779365d916f62be7_MITSTS_003F10_lec23.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/9970dfe63642e8f3779365d916f62be7_MITSTS_003F10_lec23.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: MITSTS_003F10_lec23.pdf
 uid: 9970dfe6-3642-e8f3-7793-65d916f62be7
 ---
+This resource contains information related to brains in the lab: experimental psychology.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course and includes examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,14 +14,14 @@ As a [HASS-D](http://web.mit.edu/hassreq/) (Humanities Arts and Social Sciences 
 Descriptions of Papers and Sample Student Work
 ----------------------------------------------
 
-[Paper 1]({{< baseurl >}}/pages/assignments/assn1)
+{{% resource_link a4314ea4-b773-0b5e-d07f-f4cacf0b1816 "Paper 1" %}}
 
-[Paper 2]({{< baseurl >}}/pages/assignments/assn2)
+{{% resource_link 60f220b3-5ea0-c0c7-bb5f-82cd645181ec "Paper 2" %}}
 
-*   [Rewrite of paper 2]({{< baseurl >}}/pages/assignments/assn3)
+*   {{% resource_link 9f226564-4deb-87d3-6c6b-d1931ca0c197 "Rewrite of paper 2" %}}
 
 Final paper
 
-*   [Proposal]({{< baseurl >}}/pages/assignments/assn4prop)
-*   [Option A: Eclipse and Emergence]({{< baseurl >}}/pages/assignments/assn4a)
-*   [Option B: In the Flesh]({{< baseurl >}}/pages/assignments/assn4b)
+*   {{% resource_link 575412ff-b44a-65a6-fd6c-0c8acbf32fbd "Proposal" %}}
+*   {{% resource_link f39eb890-232d-888c-8c6c-61ae212bcd5b "Option A: Eclipse and Emergence" %}}
+*   {{% resource_link 3eb09fcc-c7b5-599f-f547-ad82e117e48f "Option B: In the Flesh" %}}
