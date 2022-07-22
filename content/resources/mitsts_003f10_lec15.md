@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/8e9d00df89aa498e6f76
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_lec15.pdf
 uid: 8e9d00df-89aa-498e-6f76-7131b241a3c1
 ---
 This resource contains information related to physiology and experiment.
-

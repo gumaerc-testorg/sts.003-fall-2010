@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/0f2113808d86bd58ccaf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_lec20.pdf
 uid: 0f211380-8d86-bd58-ccaf-582d1671d70a
 ---
 This resource contains information related to einstein's gravity.
-

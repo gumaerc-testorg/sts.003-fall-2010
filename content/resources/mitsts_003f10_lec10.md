@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/45ed33c7cd04ac5ab166
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_lec10.pdf
 uid: 45ed33c7-cd04-ac5a-b166-dc6d3324707f
 ---
 This resource contains information related to laws of motion. 
-

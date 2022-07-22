@@ -6,6 +6,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/d8adf0c0c494b9ac15a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_003F10_lec11.pdf
 uid: d8adf0c0-c494-b9ac-15a9-85852f43370c
 ---
 This resource contains information related to beer brewing, steam engines, and the fate of the cosmos.
-

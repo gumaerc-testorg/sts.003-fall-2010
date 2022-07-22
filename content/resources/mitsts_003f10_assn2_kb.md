@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/556fdc74f4f51e7dc120
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Second Paper Assignment
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_assn2_kb.pdf
 uid: 556fdc74-f4f5-1e7d-c120-c5b071a0613c
 ---
 This resource contains information related to climate.
-

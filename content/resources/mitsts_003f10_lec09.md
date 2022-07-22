@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/7fc088ac921929523f72
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_lec09.pdf
 uid: 7fc088ac-9219-2952-3f72-dcf8b669492f
 ---
 This resource contains information related to ecology and environment.
-

@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/a829a239cc52fb05fbcf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: First Paper Assignment
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_assn1_a.pdf
 uid: a829a239-cc52-fb05-fbcf-8f8e7edfe24e
 ---
 This resource contains information related to alchemistry.
-

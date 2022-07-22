@@ -6,6 +6,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/71020b244ccd51c96050
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_003F10_lec04.pdf
 uid: 71020b24-4ccd-51c9-6050-d3c74a5507dd
 ---
 This resource contains information related to textbooks and chemical order, from lavoisier to mendeleev.
-

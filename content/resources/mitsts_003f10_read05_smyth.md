@@ -5,6 +5,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/decbe6623de1a616da69
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_003F10_read05_smyth.pdf
 uid: decbe662-3de1-a616-da69-0cef4ad52a5e
 ---
 This resource contains information related to smyth.
-

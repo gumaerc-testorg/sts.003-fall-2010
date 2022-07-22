@@ -13,10 +13,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of the earth appearing to rise over the surface of the moon.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-003f10-th.jpg
 uid: 24cdc3d2-eb60-0411-0420-820e073a8ebe
 ---
 New image Upload
-

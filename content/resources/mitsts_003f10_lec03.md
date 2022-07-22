@@ -6,6 +6,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/71b9bae83d43c79ee590
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_003F10_lec03.pdf
 uid: 71b9bae8-3d43-c79e-e590-75c399520c85
 ---
 This resource contains information related to alchemy and experiment in the renaissance.
-

@@ -6,6 +6,7 @@ file: /courses/sts-003-the-rise-of-modern-science-fall-2010/429fc9f50a42f4459923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_003F10_lec06.pdf
 uid: 429fc9f5-0a42-f445-9923-83a8b3dcd97b
 ---
 This resource contains information related to the nature of nature in ancient and medieval worlds.
-
