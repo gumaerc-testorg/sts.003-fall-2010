@@ -178,7 +178,7 @@ Global warming politics in the news — descriptions of scientists organizing to
 
 Banerjee, Neela. "[Climate Scientists Plan Campaign Against Global Warming Skeptics](http://articles.latimes.com/2010/nov/08/nation/la-na-climate-scientists-20101108)." *Los Angeles Times*, November 8, 2010.
 
-Freedman, Andrew. "[Scientists Launch Climate Science Counterattacks](http://voices.washingtonpost.com/capitalweathergang/2010/11/climate_scientists_to_push_bac.html)." *Washington Post*, November 8, 2010.
+Freedman, Andrew. "Scientists Launch Climate Science Counterattacks." *Washington Post*, November 8, 2010.
 
 Revkin, Andrew C. "[Scientists Join Forces in a Hostile Climate](http://dotearth.blogs.nytimes.com/2010/11/07/scientists-join-forces-in-a-hostile-climate/?scp=1&sq=American%20Geophysical%20Union&st=cse)." *New York Times*, November 7, 2010.
 
