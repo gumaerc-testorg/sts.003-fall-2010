@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to quantum alchemy. '
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/cedf0bdedd909ca994eb41d2b446eb9f_MITSTS_003F10_lec05.pdf
+file_size: 2244790
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to lavoiser.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f35d23ec37d9782d68cdec1175a73435_MITSTS_003F10_read04_lavo.pdf
+file_size: 72082
 file_type: application/pdf
 learning_resource_types:
 - Readings

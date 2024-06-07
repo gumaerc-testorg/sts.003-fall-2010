@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to alchemistry.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/a829a239cc52fb05fbcf8f8e7edfe24e_MITSTS_003F10_assn1_a.pdf
+file_size: 44039
 file_type: application/pdf
 learning_resource_types:
 - Assignments
