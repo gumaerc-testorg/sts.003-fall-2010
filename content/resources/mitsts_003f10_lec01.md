@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains introduction. '
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/20208e11cdb537cf3dff65049c0db14c_MITSTS_003F10_lec01.pdf
+file_size: 141474
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
