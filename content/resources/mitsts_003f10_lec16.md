@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to models of inheritance and
   genetics.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/3b5ef61eb84497f51e7b20c8b358e296_MITSTS_003F10_lec16.pdf
+file_size: 4163550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

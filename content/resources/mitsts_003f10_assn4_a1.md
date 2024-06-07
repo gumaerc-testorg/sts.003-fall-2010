@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to gravitation.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/a82f0414c18926278c55f7ea6b2d0a43_MITSTS_003F10_assn4_a1.pdf
+file_size: 115540
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to saving the phenomena. '
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/43a13512dedcf66253d1d6f240bf9631_MITSTS_003F10_lec17.pdf
+file_size: 1757216
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

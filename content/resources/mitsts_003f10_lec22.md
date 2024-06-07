@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to madness.
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/4640efc818fa6f6dac2e6a156e49a6d3_MITSTS_003F10_lec22.pdf
+file_size: 8836923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

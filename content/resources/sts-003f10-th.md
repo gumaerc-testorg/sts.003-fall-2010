@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/sts-003-the-rise-of-modern-science-fall-2010/24cdc3d2eb6004110420820e073a8ebe_sts-003f10-th.jpg
+file_size: 3782
 file_type: image/jpeg
 image_metadata:
   caption: This 1968 photo by Apollo 8 crewmember Bill Anders shows the Earth seemingly
