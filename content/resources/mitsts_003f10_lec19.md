@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the Newtonian cosmos.
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/5eef63d1c491ba6ef7105393eb4434b0_MITSTS_003F10_lec19.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/5eef63d1c491ba6ef7105393eb4434b0_MITSTS_003F10_lec19.pdf
 file_size: 2422335
 file_type: application/pdf
 learning_resource_types:

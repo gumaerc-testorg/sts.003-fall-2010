@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to physiology and experiment.
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/8e9d00df89aa498e6f767131b241a3c1_MITSTS_003F10_lec15.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/8e9d00df89aa498e6f767131b241a3c1_MITSTS_003F10_lec15.pdf
 file_size: 6330074
 file_type: application/pdf
 learning_resource_types:
