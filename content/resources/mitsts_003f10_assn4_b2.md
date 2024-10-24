@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to poking. '
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f701c4d1977702535e81720f6199f4ae_MITSTS_003F10_assn4_b2.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/f701c4d1977702535e81720f6199f4ae_MITSTS_003F10_assn4_b2.pdf
 file_size: 116147
 file_type: application/pdf
 learning_resource_types: []

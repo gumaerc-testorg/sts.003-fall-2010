@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to ecology and environment.
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/7fc088ac921929523f72dcf8b669492f_MITSTS_003F10_lec09.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/7fc088ac921929523f72dcf8b669492f_MITSTS_003F10_lec09.pdf
 file_size: 4070578
 file_type: application/pdf
 learning_resource_types:
