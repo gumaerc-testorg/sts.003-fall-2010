@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to beer brewing, steam engines,
   and the fate of the cosmos.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/d8adf0c0c494b9ac15a985852f43370c_MITSTS_003F10_lec11.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/d8adf0c0c494b9ac15a985852f43370c_MITSTS_003F10_lec11.pdf
 file_size: 3072848
 file_type: application/pdf
 learning_resource_types:
