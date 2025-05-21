@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to cell theory.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/8087148e3cc8a839ba0411d1d138d417_MITSTS_003F10_lec14.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/8087148e3cc8a839ba0411d1d138d417_MITSTS_003F10_lec14.pdf
 file_size: 5492494
 file_type: application/pdf
 learning_resource_types:

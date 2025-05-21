@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to footnotes.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/66dcff3476e26dcc53a8bc82dc1d0ebb_MITSTS_003F10_footnotes.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/66dcff3476e26dcc53a8bc82dc1d0ebb_MITSTS_003F10_footnotes.pdf
 file_size: 174529
 file_type: application/pdf
 learning_resource_types:
