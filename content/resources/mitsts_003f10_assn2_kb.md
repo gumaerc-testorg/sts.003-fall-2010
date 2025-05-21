@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to climate.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/556fdc74f4f51e7dc120c5b071a0613c_MITSTS_003F10_assn2_kb.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/556fdc74f4f51e7dc120c5b071a0613c_MITSTS_003F10_assn2_kb.pdf
 file_size: 541630
 file_type: application/pdf
 learning_resource_types:

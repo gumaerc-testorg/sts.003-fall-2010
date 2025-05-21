@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to observatory.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/7b56a745c1a6bbf74b96e6d76eec291f_MITSTS_003F10_assn4a_fowl.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/7b56a745c1a6bbf74b96e6d76eec291f_MITSTS_003F10_assn4a_fowl.pdf
 file_size: 773686
 file_type: application/pdf
 learning_resource_types: []

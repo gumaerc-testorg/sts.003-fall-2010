@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to linnaeus.
-file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/92f08b24491aa147c02b7ee693adeb19_MITSTS_003F10_read07_linna.pdf
+file: /courses/sts-003-the-rise-of-modern-science-fall-2010/92f08b24491aa147c02b7ee693adeb19_MITSTS_003F10_read07_linna.pdf
 file_size: 2500421
 file_type: application/pdf
 learning_resource_types:
