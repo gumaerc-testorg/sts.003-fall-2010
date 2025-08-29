@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to human body.
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/f38dea614e762cbd033a54f5ef271ca9_MITSTS_003F10_assn4_b1.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/f38dea614e762cbd033a54f5ef271ca9_MITSTS_003F10_assn4_b1.pdf
 file_size: 464770
 file_type: application/pdf
 learning_resource_types: []

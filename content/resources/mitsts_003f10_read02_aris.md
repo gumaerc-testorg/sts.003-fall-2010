@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to aristotle.
-file: /courses/sts-003-the-rise-of-modern-science-fall-2010/606d292fb3da851c14dd404e6b04b1e3_MITSTS_003F10_read02_aris.pdf
+file: /ol-ocw-studio-app/courses/sts-003-the-rise-of-modern-science-fall-2010/606d292fb3da851c14dd404e6b04b1e3_MITSTS_003F10_read02_aris.pdf
 file_size: 55196
 file_type: application/pdf
 learning_resource_types:
