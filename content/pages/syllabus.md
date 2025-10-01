@@ -22,7 +22,7 @@ This subject introduces the history of science from antiquity to the present. St
 Assignments
 -----------
 
-As a [HASS-D](http://web.mit.edu/hassreq/) (Humanities Arts and Social Sciences – Distribution) and [CI-H](http://web.mit.edu/commreq/) (Communication Intensive – Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit one of their papers, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
+As a {{% resource_link "8b4c0835-3095-4f2a-966a-9e6e63a5300e" "HASS-D" %}} (Humanities Arts and Social Sciences – Distribution) and {{% resource_link "9cc889e1-c019-4762-ac6d-2cf1ea5cbec0" "CI-H" %}} (Communication Intensive – Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit one of their papers, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
 
 Peer Response Groups
 --------------------
@@ -107,9 +107,9 @@ Reading Assignments
 
 Two books are required:
 
-Lindberg, David C. _The Beginnings of Western Science_. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with [Google Books](http://books.google.com/books?id=dPUBAkIm2lUC&printsec=frontcover#v=onepage&q&f=false)\]
+Lindberg, David C. _The Beginnings of Western Science_. 2nd ed. University of Chicago Press, 2008. ISBN: 9780226482057. \[Preview with {{% resource_link "313603fe-581f-4c5e-97de-a7f46bfcc394" "Google Books" %}}\]
 
-Dear, Peter. _The Intelligibility of Nature: How Science Makes Sense of the World_. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with [Google Books](http://books.google.com/books?id=W1GAG3vJHpgC&printsec=frontcover#v=onepage&q&f=false)\]
+Dear, Peter. _The Intelligibility of Nature: How Science Makes Sense of the World_. University of Chicago Press, 2006. ISBN: 9780226139487. \[Preview with {{% resource_link "c02e0573-606e-4c39-8cf7-cfdfcc192ea6" "Google Books" %}}\]
 
 Required readings should be completed before each lecture. We have also provided suggested readings for each lecture, which might prove helpful when working on the papers.
 
