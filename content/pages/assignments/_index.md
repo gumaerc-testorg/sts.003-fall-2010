@@ -9,7 +9,7 @@ title: Assignments
 uid: 4d4fa090-0e8c-6570-7df7-5b09def3d5f9
 ---
 
-As a [HASS-D](http://web.mit.edu/hassreq/) (Humanities Arts and Social Sciences — Distribution) and [CI-H](http://web.mit.edu/commreq/) (Communication Intensive — Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit Paper 2, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
+As a {{% resource_link "8b4c0835-3095-4f2a-966a-9e6e63a5300e" "HASS-D" %}} (Humanities Arts and Social Sciences — Distribution) and {{% resource_link "9cc889e1-c019-4762-ac6d-2cf1ea5cbec0" "CI-H" %}} (Communication Intensive — Humanities) subject, there will be a strong emphasis upon reading and writing. There will be three papers assigned for a total of 20-24 pages of writing over the course of the semester. Students will also be required to revise and resubmit Paper 2, to give them an opportunity to work on specific writing skills in anticipation of the final paper.
 
 Descriptions of Papers and Sample Student Work
 ----------------------------------------------
