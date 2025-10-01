@@ -29,7 +29,7 @@ These resources describe how to use other sources properly:
 
 *   _Footnotes, Bibliographies, and the Good Life_ ({{% resource_link 66dcff34-76e2-6dcc-53a8-bc82dc1d0ebb "PDF" %}}): examples of appropriate footnote and bibliography formats.
 *   {{% resource_link 1fe6998f-d627-660d-6ddd-0706e34edf5b "_Guidelines for Writing Papers_" %}}: tips on how to organize your essay and information regarding proper use of web-based sources.
-*   [_Academic Integrity at MIT_](http://web.mit.edu/academicintegrity/): MIT's own guide to working with sources.
+*   {{% resource_link "3920dde1-4f84-4b24-bfb1-e898c538313d" "_Academic Integrity at MIT_" %}}: MIT's own guide to working with sources.
 
 Failure to use appropriate footnote and bibliography formatting will lower your grade. Any evidence of plagiarism (i.e., passing someone else's phrases, paragraphs, or articles off as your own, without giving appropriate credit to the original author) will be referred to the professors and, if necessary, to the Committee on Discipline.
 
